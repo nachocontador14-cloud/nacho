@@ -6,7 +6,7 @@ Contexto de trabajo para Claude. Este repo no es un proyecto de software: es mi 
 
 - Estoy a cargo del **canal On Premise de Rabieta**.
 - Portfolio que manejo: **Rabieta, Guinness y Pampa**.
-- Zona / región: _(completar)_
+- Zona: **CABA y AMBA**.
 
 ## Canales y rutas al mercado
 
@@ -22,11 +22,10 @@ Tenerlo siempre presente: los dos canales tienen interlocutores, lógicas y KPIs
 
 ## KPIs que sigo
 
-_(completar con los que realmente uso, por ejemplo)_
-- Volumen (litros de barril / cajas de lata) por marca y por cliente
-- Cantidad de puntos activos / cobertura
-- Canillas instaladas por marca
-- Cumplimiento vs. objetivo mensual
+- **Volumen** (litros de barril / cajas de lata) por marca, canal y cliente
+- **Facturación** por marca, canal y cliente
+
+Siempre que analices resultados, mostrá los dos KPIs juntos y comparalos contra objetivo y contra el período anterior.
 
 ## Cómo quiero que me respondas
 
