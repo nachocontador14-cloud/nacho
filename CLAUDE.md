@@ -52,18 +52,25 @@ Siempre que analices resultados, mostrá los dos KPIs juntos y comparalos contra
 ## 2. Freddo (franquicia propia)
 
 - Soy franquiciado de **Freddo**, en sociedad con **Julián** (socio y amigo).
+- Local: **Freddo Villa Pueyrredón** (CABA).
+- Abierto desde **diciembre 2025**: a fines de 2026 cumple su primer año, así que todavía no hay año completo contra el cual comparar.
 - Lo que se arme acá es para decidir y compartir entre socios: claro, con números y sin vueltas.
 
-_(A completar: cantidad de locales y ubicación, reparto de tareas entre socios, qué seguimos: ventas, costos, personal, relación con la franquiciante.)_
+_(A completar: reparto de tareas con Julián, qué seguimos: ventas, costos, personal, relación con la franquiciante.)_
 
 ---
 
 ## 3. Foodtrucks
 
 - Negocio de foodtrucks en sociedad con **Tote y Fede**.
+- **3 camiones.**
+- Menú amplio, fuerte en **parrilla, milanesas y hamburguesas**.
+- Reparto de roles:
+  - **Yo:** consigo los lugares (eventos, espacios, acuerdos): soy el comercial del negocio.
+  - **Tote y Fede:** operan los camiones.
 - Lo que se arme acá es para decidir y compartir entre los tres socios.
 
-_(A completar: cantidad de trucks, qué venden, dónde trabajan —eventos, ferias, puesto fijo—, reparto de tareas, qué seguimos.)_
+_(A completar: dónde trabajan habitualmente —eventos, ferias, puesto fijo—, cómo se reparten las ganancias, qué seguimos.)_
 
 ---
 
@@ -76,8 +83,6 @@ _(A completar: cantidad de trucks, qué venden, dónde trabajan —eventos, feri
 - Soy nuevo usando Claude: explicame las cosas simple cuando haga falta.
 
 ## Organización de este repo
-
-_(sugerido — ajustar a gusto)_
 
 - `rabieta/`
   - `clientes/` — fichas de bares (directa)
