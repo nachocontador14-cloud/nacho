@@ -72,9 +72,10 @@ _(A completar: qué seguimos: ventas, costos, personal, relación con la franqui
 - Reparto de roles:
   - **Yo:** consigo los lugares (eventos, espacios, acuerdos): soy el comercial del negocio.
   - **Tote y Fede:** operan los camiones.
+- Reparto de ganancias:
+  1. Primero se le pagan **USD 500 a Tote** por poner su casa como depósito y lugar de producción _(periodicidad a confirmar)_.
+  2. Lo que queda se reparte en **partes iguales entre los tres** (1/3 cada uno).
 - Lo que se arme acá es para decidir y compartir entre los tres socios.
-
-_(A completar: cómo se reparten las ganancias, qué números seguimos.)_
 
 ---
 
