@@ -54,9 +54,12 @@ Siempre que analices resultados, mostrá los dos KPIs juntos y comparalos contra
 - Soy franquiciado de **Freddo**, en sociedad con **Julián** (socio y amigo).
 - Local: **Freddo Villa Pueyrredón** (CABA).
 - Abierto desde **diciembre 2025**: a fines de 2026 cumple su primer año, así que todavía no hay año completo contra el cual comparar.
+- Reparto de roles: no hay división formal, **los dos hacemos todo**, pero cada uno se carga más con algunos temas:
+  - **Julián:** mantenimiento, sistema y mails.
+  - **Yo:** empleados y números.
 - Lo que se arme acá es para decidir y compartir entre socios: claro, con números y sin vueltas.
 
-_(A completar: reparto de tareas con Julián, qué seguimos: ventas, costos, personal, relación con la franquiciante.)_
+_(A completar: qué seguimos: ventas, costos, personal, relación con la franquiciante.)_
 
 ---
 
