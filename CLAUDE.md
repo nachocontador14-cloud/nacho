@@ -68,12 +68,13 @@ _(A completar: qué seguimos: ventas, costos, personal, relación con la franqui
 - Negocio de foodtrucks en sociedad con **Tote y Fede**.
 - **3 camiones.**
 - Menú amplio, fuerte en **parrilla, milanesas y hamburguesas**.
+- Trabajamos en **eventos, ferias y catering**: un poco de todo.
 - Reparto de roles:
   - **Yo:** consigo los lugares (eventos, espacios, acuerdos): soy el comercial del negocio.
   - **Tote y Fede:** operan los camiones.
 - Lo que se arme acá es para decidir y compartir entre los tres socios.
 
-_(A completar: dónde trabajan habitualmente —eventos, ferias, puesto fijo—, cómo se reparten las ganancias, qué seguimos.)_
+_(A completar: cómo se reparten las ganancias, qué números seguimos.)_
 
 ---
 
